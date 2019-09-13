@@ -9,4 +9,4 @@ Written in PyCharm, in part to help enforce PEP8 and to learn more about IDEs ot
 
 There's only one playable level and no original ideas in this code.
 
-Start reading at entry.py.
+Start reading at engine.py.
